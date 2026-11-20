@@ -1,0 +1,10 @@
+PLACEMENT ELIGIBILITY CHECKER - SUMMARY
+=======================================
+Total jobs: 8
+Total students: 25
+Jobs matched: 3
+Jobs needing review: 5
+Eligible student-job matches: 48
+
+IMPORTANT: These are draft eligibility results.
+A placement officer must check every draft list before sharing.
